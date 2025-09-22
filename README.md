@@ -38,26 +38,8 @@ Many lack **personalized guidance** that connects their current skill level with
 * **Model Parameter Tuning** → Controls tone, creativity & response style
 * **IBM Cloud Lite** → Development, testing & deployment
 
----
 
-## 🎥 Demo
 
-🔗 [Watch Walkthrough Video](https://github.com/InsaneIshita/LearnMate-Agentic-AI/blob/main/LearnMateAI_walkthrough.mp4)
-
-📸 Screenshots:
-![1](Screenshots/Screenshot%202025-07-30%20175508.png)
-![2](Screenshots/Screenshot%202025-07-30%20175738.png)
-![3](Screenshots/Screenshot%202025-07-30%20180439.png)
-
----
-
-## 📝 Notes
-
-* Built using **IBM Watsonx.ai’s no-code interface**
-* **No deployable source code** is included (platform restriction)
-* Public preview is **not available** due to IBM Cloud limitations
-
----
 
 ## 🚀 Future Scope
 
