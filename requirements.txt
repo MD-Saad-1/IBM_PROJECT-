@@ -1,0 +1,8 @@
+replicate
+langchain
+gradio
+langchain_community
+langchain_huggingface
+faiss-cpu
+transformers
+python-dotenv
